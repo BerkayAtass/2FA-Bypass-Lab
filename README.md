@@ -1,6 +1,9 @@
 # 2FA-Bypass-Lab
 lab on two factor authentication
 
+Turkce Anlatim
+https://book.siberyavuzlar.com/web-guevenligi/two-factor-authentication-bypass
+
 ![Screenshot_5](https://github.com/BerkayAtass/2FA-Bypass-Lab/assets/74881380/079b7d67-8e56-42c7-83e6-7fbddc8e5661)
 
 
