@@ -1,5 +1,5 @@
 # 2FA-Bypass-Lab
-lab on two factor authentication
+lab on two factor authentication bypass
 
 Turkce Anlatim : 
 https://book.siberyavuzlar.com/web-guevenligi/two-factor-authentication-bypass
